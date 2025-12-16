@@ -1,0 +1,15 @@
+# Юридический бот - зависимости
+# Установка: pip install -r requirements.txt
+
+# Основные библиотеки
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+
+# Вспомогательные (для расширения функционала)
+# pandas>=2.0.0
+# streamlit>=1.24.0
+# python-telegram-bot>=20.3
+
+# Python версия
+python>=3.9
